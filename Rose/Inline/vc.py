@@ -103,18 +103,14 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()    
 
 supunmasc = """
-We was added **Multi Assistant Mode** for High Number of Chats.
+Assistant puii
 
 👮‍♀️ **OFFICIAL Assistants**:-
-• Assistant 1️⃣ :- @vcpalyassistant
-• Assistant 2️⃣ :- @vcpalyassistant1
-• Assistant 3️⃣ :- @vcpalyassistant2
-• Assistant 4️⃣ :- @vcpalyassistant3
-• Assistant 5️⃣ :- @vcpalyassistant4
+• Assistant❤️:- @an_unic_orn_47
 
 **Credits** - 
--「🇮🇳」°『||ᴀᴅ•✘•ᴍᴜꜱɪᴄ||』
-- @not_just_Nikhil
+-「🇮🇳」°『||@an_unic_orn_47||』
+- @an_unic_orn_47
 👨‍💻 - Please Don't add all assistant to your group use 1
 And also we remove assistant monthly in all groups.
 """
