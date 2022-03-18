@@ -7,8 +7,8 @@ from Rose import bot as app
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 
-text = """
-Rose was created on **August 10, 2021**. We are currently developing and maintaining the **WilliamButcherBot**  and **Alita_Robot** plugin, using only the Pyrogram libarry.
+
+
 
 • [support group](https://t.me/slbotzone) 
 • [News Channel](https://t.me/szroseupdates) 
