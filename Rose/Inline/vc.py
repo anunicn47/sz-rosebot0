@@ -111,9 +111,7 @@ Assistant puii
 **Credits** - 
 -「🇮🇳」°『||@an_unic_orn_47||』
 - @an_unic_orn_47
-👨‍💻 - Please Don't add all assistant to your group use 1
-And also we remove assistant monthly in all groups.
-"""
+
 @app.on_callback_query(filters.regex("_aci"))
 async def commands_callbacc(_, CallbackQuery):
     await app.send_message(
@@ -169,7 +167,6 @@ __MODULE__ = "🎧 Player"
 __HELP__ = """
 **A Telegram Music+Video Streaming bot with some useful features.**
 
-**Features**[?](https://notreallyshikhar.gitbook.io/Rosemusicbot/about/getting-started/features)
 
 - Zero lagtime Video + Audio + live stream player.
 - Working Queue and Interactive Queue Checker.
@@ -179,9 +176,7 @@ __HELP__ = """
 - Multi Assistant Mode for High Number of Chats.
 - Interactive UI, Fonts and Thumbnails.
 
-**Original work is done by** : @OfficialYukki
-Click on the buttons for more information.| [credits](https://github.com/NotReallyShikhar/RoseMusicBot)
-"""
+
 __helpbtns__ = (
         [[
             InlineKeyboardButton
